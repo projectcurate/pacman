@@ -5,4 +5,3 @@ init:
 
 test:
 	py.test tests
-
